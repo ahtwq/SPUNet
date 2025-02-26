@@ -16,7 +16,7 @@
 
 #### Surface
 
-- `Tiger head`：$40\times 40$ gridded data points.
+- `Tiger head` ：$40\times 40$ gridded data points.
 
 - `Face` : $201\times 201$ gridded data points.
 
