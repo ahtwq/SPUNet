@@ -2,7 +2,7 @@
 
 
 
-Here is the dataset presentation for the submitted paper "Net-Assisted Parameterization for B-Spline Surface Approximation on Gridded Data". 
+Here is the dataset presentation for the submitted paper "Net-Assisted Parameterization for B-Spline Surface Approximation". 
 
 
 
