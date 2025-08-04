@@ -1,6 +1,6 @@
 #### Dataset description
 
-(updaed in Aug. 8th, 2025)
+(updaed in Aug. 4th, 2025)
 
 #### B-spline
 
